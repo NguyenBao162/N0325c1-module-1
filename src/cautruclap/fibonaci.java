@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class fibonaci {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
-        System.out.println("Nhập n: ");
+        System.out.print("Nhập n: ");
         int n = scanner.nextInt();
 
         int f1 = 0;

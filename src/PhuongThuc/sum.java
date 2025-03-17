@@ -8,6 +8,7 @@ public class sum {
 
          int caltotal;
 
+
     }
     public static int caltotal(int a, int b){
         int total = a + b;
